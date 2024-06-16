@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Estudiante.h"
+#include "estudiante.h"
 using namespace std;
 int main(){
 	string codigo, nombres, apellidos, direccion, fecha_nacimiento;
